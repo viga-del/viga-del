@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=viga-del&label=Profile%20views&color=0e75b6&style=flat" alt="viga-del" /> 
 </p>
 
-<!-- TROPHIES (FIXED VERSION) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viga-del&theme=onedark&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
 ---
 
 ### 🔭 Current Work
@@ -39,7 +34,7 @@
 - Email: **vigashinism15@gmail.com**  
 
 ### 📄 Resume
-- https://drive.google.com/file/d/1-7_3pOxJvuou_7L-jXFNF2aMcqFZMjQv/view?usp=drivesdk  
+- https://drive.google.com/file/d/1-7_3pOxJvuou_7L-jXFNF2aMcqFZMjQv/view  
 
 ---
 
