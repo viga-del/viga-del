@@ -7,8 +7,7 @@
 
 ---
 
-### 🔭 Current Work
-- Working on **OverloadShield: Proactive System Failure Prevention Using AI**
+
 
 ### 🌱 Learning
 - Advanced Data Structures & Algorithms  
